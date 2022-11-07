@@ -98,6 +98,10 @@ body {
     color: hsl(25, 97%, 53%);
 }
 
+.selected-button {
+    background-color: hsl(25, 97%, 53%);
+}
+
 #thanks-container {
     display: none;
     flex-direction: column;
