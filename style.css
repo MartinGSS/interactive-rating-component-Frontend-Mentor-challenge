@@ -73,11 +73,6 @@ body {
     color: white;
 }
 
-.number:focus {
-    background-color: hsl(25, 97%, 53%);
-    color: white;
-}
-
 #submit {
     background-color: hsl(25, 97%, 53%);
     height: 40px;
